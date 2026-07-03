@@ -1,4 +1,4 @@
-# Soc-phishing-investigation-lab
+# soc-phishing-investigation-lab
 Hands-on SOC Analyst phishing investigation lab demonstrating alert triage, phishing detection, true/false positive classification, incident reporting, and security analysis.
 ## Overview
 This repository documents my hands-on SOC Analyst phishing investigation lab completed as part of cybersecurity training.
@@ -72,6 +72,10 @@ The objective was to investigate phishing-related alerts, identify True Positive
 - Microsoft Defender Investigation
 
 ---
+## Conclusion
+
+This lab provided practical experience in phishing alert investigation, security alert triage, and incident response. It strengthened my understanding of how SOC analysts identify phishing attempts, distinguish between true and false positives, and document investigation findings in a structured manner.
+
 
 ## Author
 
